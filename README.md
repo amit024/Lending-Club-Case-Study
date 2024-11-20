@@ -3,12 +3,35 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* 1. Data Understanding
+Problem Statement
+Objectives
+Understanding the dataset
+Dataset Attributes
+Dataset Row Analysis
+Dataset Column Analysis
+Handling missing data
+Handling Outliers
 
-<!-- You can include any other section that is pertinent to your problem -->
+2. Data Cleaning and Manipulation
+Loading data from loan CSV
+Checking for null values in the dataset
+Checking for unique values
+Checking for duplicated rows in data
+Dropping records
+Common Functions
+Data Conversion
+Outlier Treatment
+Imputing values in Columns
+
+3. Data Analysis¶
+Derived Columns
+Univariate Analysis (including Segmented Univariate Analysis)
+Bivariate Analysis
+
+4. Multivariate Analysis
+
+
 
 ## General Information
 - Provide general information about your project here.
@@ -28,9 +51,17 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python	3.11.4	https://www.python.org/
+
+Matplotlib	3.7.1	https://matplotlib.org/
+
+Numpy	1.24.3	https://numpy.org/
+
+Pandas	1.5.3	https://pandas.pydata.org/
+
+Seaborn	0.12.2	https://seaborn.pydata.org/
+
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +73,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@amit024] - feel free to contact me!
 
 
 <!-- Optional -->
